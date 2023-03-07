@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# Amazon-starterpack-ecommerce (skincare products) 
+[Demo](https://amazon-starterpack.pages.dev)
+
+- This is a React project where React functional components and their reusability are used
+- Have React file and folder structure
+- Responsiveness perfectly covers all devices
+- Used Fundamental CSS features like flex and grid
+- Animations are done using auto-animate and framer motion libraries
+- Used swiper library for smooth transition
+<br/>
+
+## Desktop view
+![alt text](https://github.com/sharminK/amazon-starterpack/blob/main/amazon-starterpack-desktop.png)
+
+## Mobile view
+![alt text](https://github.com/sharminK/amazon-starterpack/blob/main/amazon-starterpack-phone.png)
+
+<br/>
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
